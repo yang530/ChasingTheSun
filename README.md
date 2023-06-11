@@ -9,8 +9,6 @@ entire river to quench his burning thirst. However, the great river was unable t
 his need for water. He ran on towards north, eventually died of thirst and exhaustion."
 	
 (Story in Chinese: 夸父与日逐走，入日； 渴，欲得饮，饮于河、渭； 河、渭不足，北饮大泽。未至，道渴而死。
-弃其杖，化为邓林。--山海经)
-
-					-- "Shan Hai Jing (The Classic of Mountains and Seas)"
+弃其杖，化为邓林。--山海经)                -- "Shan Hai Jing (The Classic of Mountains and Seas)"
 					
 
