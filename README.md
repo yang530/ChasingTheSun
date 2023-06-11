@@ -10,5 +10,14 @@ his need for water. He ran on towards north, eventually died of thirst and exhau
 	
 (Story in Chinese: 夸父与日逐走，入日； 渴，欲得饮，饮于河、渭； 河、渭不足，北饮大泽。未至，道渴而死。
 弃其杖，化为邓林。--山海经)                -- "Shan Hai Jing (The Classic of Mountains and Seas)"
+
+## Notes:
+1. The game is based on the Chinese legend of Kuafu -- an ancient diety who ran after the Sun.
+2. Left click to jump (click again for double jump while airborned) and avoid obstacles. 
+3. Pick up foods and drink from river to recover health so that Kuafu could run further. 
+4. Drinking from a river replenishes large amount of health. Reach the mileage of 99999999 to win.
+5. Spacebar to pause and unpause game.	
+
+
 					
 
