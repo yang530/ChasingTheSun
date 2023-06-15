@@ -65,6 +65,7 @@ function ready() {
     // given F (Frame), S (Stage), W (width), H (height)
     // put code here
     //initialize the game
+    createjs.Touch.enable(S);
     const gameCont = new Container(W, H).centerReg(S);
     let ground = initGround(gameCont);
 
